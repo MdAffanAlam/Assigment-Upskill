@@ -1,0 +1,159 @@
+.logo {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 45px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+.image-446 {
+  align-self: stretch;
+  height: 37px;
+  position: relative;
+}
+.image-446-wrapper {
+  width: 122px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.5px 0 0;
+  box-sizing: border-box;
+}
+.login {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 43px;
+}
+.authentication {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+.signup {
+  position: relative;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #fcf5fe;
+  text-align: left;
+  display: inline-block;
+  min-width: 57px;
+}
+.solidbuttom1 {
+  cursor: pointer;
+  border: 0;
+  padding: 12px 24px;
+  background-color: transparent;
+  box-shadow: 0 8px 24px -10px rgba(153, 46, 157, 0.5);
+  border-radius: 14px;
+  background: linear-gradient(180deg, #b73bbe, #992e9d);
+  overflow: hidden;
+  justify-content: flex-start;
+}
+.logo-container-parent,
+.solidbuttom1,
+.user-actions {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.user-actions {
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: right;
+  color: #992e9d;
+}
+.logo-container-parent {
+  align-self: stretch;
+  background-color: #fff;
+  border-bottom: 1px solid #f5f5f6;
+  justify-content: center;
+  padding: 24px 20px 22px;
+  gap: 428.5px;
+}
+.overview {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 75px;
+}
+.amet-minim-mollit-non-deserunt {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  border-radius: 10px 10px 0 0;
+  background-color: #ffa50b;
+}
+.overview-container {
+  width: 75.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  color: #fff;
+}
+.curriculum,
+.refund,
+.testimonials {
+  position: relative;
+  display: inline-block;
+  min-width: 90px;
+}
+.refund,
+.testimonials {
+  min-width: 57px;
+}
+.testimonials {
+  min-width: 101px;
+}
+.information,
+.navigation {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.information {
+  background-color: #3b3b3e;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 20px 0;
+  gap: 19.8px;
+  z-index: 1;
+  margin-top: -1px;
+  color: #cfd0d2;
+}
+.navigation {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 15px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1225px) {
+  .logo-container-parent {
+    gap: 214px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .logo-container-parent {
+    gap: 107px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .logo-container-parent {
+    gap: 54px;
+  }
+}

@@ -1,0 +1,70 @@
+.online-learning-icon {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.learning-categories {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.courses,
+.details-icons {
+  position: relative;
+  display: inline-block;
+}
+.details-icons {
+  line-height: 40px;
+  font-weight: 500;
+  min-width: 49px;
+}
+.courses {
+  font-size: 24px;
+  line-height: 28px;
+  font-family: "DM Sans";
+  color: #686972;
+  min-width: 92px;
+}
+.category-details {
+  flex-direction: column;
+  gap: 2px;
+}
+.category-details,
+.learning-content,
+.learning-elements {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.learning-content {
+  flex-direction: row;
+  gap: 12px;
+}
+.learning-elements {
+  flex-direction: column;
+  padding: 15px 0 0;
+  text-align: left;
+  font-size: 40px;
+  color: #992e9d;
+  font-family: Poppins;
+}
+@media screen and (max-width: 750px) {
+  .details-icons {
+    font-size: 32px;
+    line-height: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .details-icons {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .courses {
+    font-size: 19px;
+    line-height: 22px;
+  }
+}

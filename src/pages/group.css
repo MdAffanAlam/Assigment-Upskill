@@ -1,0 +1,383 @@
+.group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    width: 1366px;
+    height: 997px;
+  }
+  .key-highlights {
+    position: absolute;
+    top: 25px;
+    left: 549px;
+    font-size: 36px;
+    background: linear-gradient(180deg, #b872d0, #372faa);
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+  }
+  .industry-standard {
+    margin: 0;
+  }
+  .industry-standard-courses-container {
+    position: absolute;
+    top: 15px;
+    left: 27px;
+    font-weight: 500;
+    background: linear-gradient(
+      90.24deg,
+      rgba(63, 55, 201, 0.74),
+      rgba(177, 66, 63, 0.53)
+    );
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .card-1,
+  .intern-icon {
+    position: absolute;
+    top: 74px;
+    left: 51px;
+    width: 88px;
+    height: 92.7px;
+  }
+  .card-1 {
+    top: 104px;
+    left: 63px;
+    box-shadow: 0 0.5px 10px 1.5px rgba(165, 130, 179, 0.22);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+  }
+  .industry-standard-courses-container1 {
+    position: absolute;
+    top: 15px;
+    left: 6px;
+    font-weight: 500;
+    background: linear-gradient(
+      90.24deg,
+      rgba(63, 55, 201, 0.74),
+      rgba(177, 66, 63, 0.53)
+    );
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .intern-icon1 {
+    position: absolute;
+    top: 74px;
+    left: 51px;
+    width: 88px;
+    height: 92.7px;
+    display: none;
+  }
+  .card-11 {
+    position: absolute;
+    top: 104px;
+    left: 273px;
+    box-shadow: 0 0.5px 10px 1.5px rgba(165, 130, 179, 0.22);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+  }
+  .industry-standard-courses {
+    position: absolute;
+    top: 15px;
+    left: 14px;
+    font-weight: 500;
+    background: linear-gradient(
+      90.24deg,
+      rgba(63, 55, 201, 0.74),
+      rgba(177, 66, 63, 0.53)
+    );
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .card-7 {
+    position: absolute;
+    top: 104px;
+    left: 483px;
+    box-shadow: 0 0.5px 10px 1.5px rgba(165, 130, 179, 0.22);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+  }
+  .industry-standard-courses-container2 {
+    position: absolute;
+    top: 15px;
+    left: 46px;
+    font-weight: 500;
+    background: linear-gradient(
+      90.24deg,
+      rgba(63, 55, 201, 0.74),
+      rgba(177, 66, 63, 0.53)
+    );
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .card-9 {
+    position: absolute;
+    top: 104px;
+    left: 1113px;
+    box-shadow: 0 0.5px 10px 1.5px rgba(165, 130, 179, 0.22);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+  }
+  .industry-standard-courses1 {
+    position: absolute;
+    top: 15px;
+    left: 34px;
+    font-weight: 500;
+    background: linear-gradient(
+      90.24deg,
+      rgba(63, 55, 201, 0.74),
+      rgba(177, 66, 63, 0.53)
+    );
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .card-10 {
+    position: absolute;
+    top: 104px;
+    left: 693px;
+    box-shadow: 0 0.5px 10px 1.5px rgba(165, 130, 179, 0.22);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+  }
+  .chat-icon,
+  .mentorship-icon {
+    position: absolute;
+    top: 159px;
+    left: 747px;
+    width: 82px;
+    height: 108.1px;
+  }
+  .chat-icon {
+    top: 186px;
+    left: 1167px;
+    height: 82px;
+    object-fit: cover;
+  }
+  .suitcase-icon {
+    top: 180px;
+    left: 537px;
+    width: 83px;
+    height: 66px;
+  }
+  .card-91,
+  .icon,
+  .suitcase-icon {
+    position: absolute;
+  }
+  .icon {
+    top: 191px;
+    left: 327px;
+    width: 82px;
+    height: 76.3px;
+    object-fit: cover;
+  }
+  .card-91 {
+    top: 104px;
+    left: 905px;
+    box-shadow: 0 0.5px 10px 1.5px rgba(165, 130, 179, 0.22);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+  }
+  .skill-icon {
+    position: absolute;
+    top: 182px;
+    left: 937px;
+    width: 82px;
+    height: 82px;
+    object-fit: cover;
+  }
+  .program-rewardz {
+    position: absolute;
+    top: 76px;
+    left: 0;
+    background-color: #fff;
+    width: 1366px;
+    height: 319px;
+    overflow: hidden;
+    font-size: 15px;
+  }
+  .how-does-the {
+    position: absolute;
+    top: 451px;
+    left: 298px;
+    font-size: 36px;
+    display: inline-block;
+    background: linear-gradient(180deg, #b872d0, #372faa);
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 771px;
+  }
+  .learn-at-your-child {
+    position: absolute;
+    top: 64px;
+    left: 49px;
+    width: 135px;
+    height: 110px;
+    object-fit: contain;
+  }
+  .learn-at-your-item {
+    position: absolute;
+    width: calc(100% - 1078px);
+    top: 6px;
+    right: 1078px;
+    left: 0;
+    border-radius: 101px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 64px;
+  }
+  .learn-at-your-child1,
+  .learn-at-your-inner,
+  .line-icon {
+    position: absolute;
+    top: 60px;
+    left: 222px;
+    width: 186px;
+    height: 113px;
+    object-fit: contain;
+  }
+  .learn-at-your-child1,
+  .line-icon {
+    top: 70px;
+    left: 659px;
+    width: 149px;
+    height: 115px;
+  }
+  .learn-at-your-child1 {
+    top: 66px;
+    left: 454px;
+    width: 148px;
+    height: 119px;
+  }
+  .frame-icon,
+  .learn-at-your-child2,
+  .learn-at-your-child3,
+  .learn-at-your-child4 {
+    position: absolute;
+    width: calc(100% - 1078px);
+    top: 167px;
+    right: 907px;
+    left: 171px;
+    border-radius: 137px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 64px;
+  }
+  .learn-at-your-child2,
+  .learn-at-your-child3,
+  .learn-at-your-child4 {
+    top: 10px;
+    right: 676px;
+    left: 402px;
+    border-radius: 100px;
+  }
+  .learn-at-your-child3,
+  .learn-at-your-child4 {
+    top: 167px;
+    right: 480px;
+    left: 598px;
+  }
+  .learn-at-your-child4 {
+    top: 10px;
+    right: 287px;
+    left: 791px;
+  }
+  .learn-from-our,
+  .live-doubt-solving {
+    position: absolute;
+    top: 2px;
+    left: 79px;
+    font-weight: 600;
+    display: inline-block;
+    width: 275px;
+  }
+  .live-doubt-solving {
+    top: 163px;
+    left: 250px;
+    width: 272px;
+  }
+  .build-major-projects,
+  .get-guaranteed-paid,
+  .personal-mentors-to {
+    position: absolute;
+    top: 175px;
+    left: 676px;
+    font-weight: 600;
+    display: inline-block;
+    width: 274px;
+  }
+  .get-guaranteed-paid,
+  .personal-mentors-to {
+    top: 0;
+    left: 870px;
+    width: 272px;
+  }
+  .personal-mentors-to {
+    top: 6px;
+    left: 481px;
+  }
+  .learn-at-your {
+    position: absolute;
+    top: 545px;
+    left: 112px;
+    width: 1142px;
+    height: 235px;
+    text-align: left;
+  }
+  .apply-now-for {
+    position: absolute;
+    top: 15px;
+    left: 28px;
+    line-height: 123.5%;
+    font-weight: 600;
+  }
+  .apply-now-button {
+    position: absolute;
+    top: 815px;
+    left: 571px;
+    box-shadow: 1px 0 4px rgba(0, 0, 0, 0.15), -1px 0 4px rgba(0, 0, 0, 0.15),
+      0-1px 4px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background: linear-gradient(176.18deg, purple, #7e277e 20.63%);
+    width: 225px;
+    height: 50px;
+    overflow: hidden;
+    color: #fff;
+  }
+  .rectangle-parent {
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    font-size: 16px;
+    color: #150e42;
+    font-family: Poppins;
+}
+
+
+  

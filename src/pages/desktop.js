@@ -3,6 +3,7 @@ import MacBookAir from "../components/mac-book-air";
 import FrameComponent5 from "../components/frame-component5";
 import FrameComponent4 from "../components/frame-component4";
 import "./desktop.css";
+import Group from "./group";
 
 const Desktop = () => {
   return (
@@ -98,7 +99,7 @@ const Desktop = () => {
       </section>
       <FrameComponent5 />
       <FrameComponent4 />
-      
+      <Group/>
     </div>
   );
 };

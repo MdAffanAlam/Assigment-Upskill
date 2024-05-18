@@ -379,5 +379,8 @@
     font-family: Poppins;
 }
 
-
-  
+@media screen and (min-width: 1853px) {
+  .rectangle-parent {
+    width: 15%;
+  }
+}
